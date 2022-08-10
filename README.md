@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshul Vishwakarma</h1>
-<h3 align="center">A passionate Webappsecurity researcher | Python coder and learner</h3>
+<h3 align="center">A passionate Webappsecurity Researcher | Python coder | Learner</h3>
 
 - 🌱 This all exercise I have done while i learn Python from  <a href="https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME">[Code with harry] </a>on youtube
 
