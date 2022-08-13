@@ -2,7 +2,7 @@
 num=int(input("Enter a number :"))
 c=int(input("choose 1 or 0 :"))
 if 1==c:
-    for i in range(num):
+    for i in range(0,num+1):
         print("*" * i)
 elif 0==c:
     for i in range(num):
